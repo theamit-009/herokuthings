@@ -1,0 +1,33 @@
+					Heroku Questions
+
+https://devcenter.heroku.com/articles/heroku-connect-diagnose#check-calculated-fields
+
+https://help.heroku.com/LU202JQ1/why-am-i-getting-a-this-object-is-read-only-and-does-not-support-writing-to-salesforce-error-when-using-heroku-connect
+
+https://help.heroku.com/4UIT2A5I/why-did-i-briefly-see-postgres-read-only-transaction-errors-for-my-hobby-instance
+
+https://help.heroku.com/6ERUXA4I/why-did-my-binary-fields-stop-syncing
+
+https://help.heroku.com/DCQB22IS/can-i-send-read-only-postgres-queries-to-a-follower-database
+
+https://help.heroku.com/H8KUKAQQ/why-am-i-getting-h12-request-timeouts-when-using-unicorn-gunicorn
+
+https://help.heroku.com/TL6IX2AD/why-am-i-seeing-error-getting-commands-pid-12345-sigsegv-signal-11-when-using-the-heroku-cli
+
+https://help.heroku.com/0YVA2DRW/why-are-calculated-fields-not-syncable-in-heroku-connect
+
+
+
+How body parser works ?
+https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
+
+
+How middleware works ?
+https://medium.com/@adamzerner/middleware-in-express-60d75055ba8f
+
+
+
+
+JWT vs Session Based Authentoication
+
+https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens
